@@ -37,6 +37,7 @@
     
     /**
      * @author xuxiaowei
+     * @see OAuth2PasswordAuthenticationProvider#init(HttpSecurity, OAuth2AuthorizationServerConfigurer, OAuth2AuthorizationService, UserDetailsService)
      */
     @Configuration(proxyBeanMethods = false)
     public class AuthorizationServerConfig {
