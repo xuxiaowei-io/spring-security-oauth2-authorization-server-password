@@ -6,8 +6,10 @@
 
 ## 版本选择
 
-- 快照:
+- 快照（只能保留 `90天`）:
   https://central.sonatype.com/repository/maven-snapshots/io/xuxiaowei/security/spring-security-oauth2-authorization-server-password/maven-metadata.xml
+- 发布版:
+  https://repo1.maven.org/maven2/io/xuxiaowei/security/spring-security-oauth2-authorization-server-password/maven-metadata.xml
 
 | org.springframework.security:spring-security-oauth2-authorization-server | io.xuxiaowei.security:spring-security-oauth2-authorization-server-password |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------|
