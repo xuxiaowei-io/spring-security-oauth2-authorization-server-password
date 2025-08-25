@@ -64,3 +64,13 @@
     
     }
     ```
+
+## 源码
+
+1. 只通过 `Maven` `中央仓库` 发布 `正式版源码`，`Maven` 可使用 `mvn clean -U package dependency:sources -DskipTests=true`
+   批量下载项目中使用的源码
+2. 自建 GitLab 平台仓库：
+   https://gitlab.xuxiaowei.com.cn/xuxiaowei-io/spring-security-oauth2-authorization-server-password.git
+    1. 包含所有源码及历史提交记录
+    2. 包含完整的 `OAuth` `2.1` `password` 测试用例
+    3. 包含完整的 `CI/CD` 配置：自动构建、自动测试、自动发布
