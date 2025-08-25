@@ -11,14 +11,15 @@
 - 发布版:
   https://repo1.maven.org/maven2/io/xuxiaowei/security/spring-security-oauth2-authorization-server-password/maven-metadata.xml
 
-| org.springframework.security:spring-security-oauth2-authorization-server | io.xuxiaowei.security:spring-security-oauth2-authorization-server-password |
-|--------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| 2.0.x                                                                    | 2.0.x                                                                      |
-| 1.0.x、1.1.x、1.2.x、1.3.x、1.4.x、1.5.x                                      | 1.0.x                                                                      |
-| 0.4.x                                                                    | 0.4.x                                                                      |
-| 0.3.1                                                                    | 0.3.1                                                                      |
-| 0.3.0                                                                    | 0.3.0                                                                      |
-| 0.2.3                                                                    | 0.2.3                                                                      |
+| org.springframework.security:spring-security-oauth2-authorization-server | io.xuxiaowei.security:spring-security-oauth2-authorization-server-password | CI/CD Spring Boot 版本 |
+|--------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------|
+| 2.0.x                                                                    | 2.0.0                                                                      | 4.0.0-M2             |
+| 1.1.x、1.2.x、1.3.x、1.4.x、1.5.x                                            | 1.1.1-1                                                                    | 3.5.5                |
+| 1.0.x                                                                    | 1.0.1-1                                                                    | 3.5.5                |
+| 0.4.x                                                                    | 0.4.1-1                                                                    | 2.7.18               |
+| 0.3.1                                                                    | 0.3.1-1                                                                    | 2.7.18               |
+| 0.3.0                                                                    | 0.3.0-1                                                                    | 2.7.18               |
+| 0.2.3                                                                    | 0.2.3-1                                                                    | 2.7.18               |
 
 ## 使用方法
 
