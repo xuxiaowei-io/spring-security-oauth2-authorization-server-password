@@ -13,7 +13,7 @@
 
 | org.springframework.security:spring-security-oauth2-authorization-server | io.xuxiaowei.security:spring-security-oauth2-authorization-server-password | CI/CD Spring Boot 版本 |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------|
-| 2.0.x                                                                    | 2.0.0                                                                      | 4.0.0-M2             |
+| 2.0.x                                                                    | 2.0.0-1                                                                    | 4.0.0-M2             |
 | 1.1.x、1.2.x、1.3.x、1.4.x、1.5.x                                            | 1.1.1-1                                                                    | 3.5.5                |
 | 1.0.x                                                                    | 1.0.1-1                                                                    | 3.5.5                |
 | 0.4.x                                                                    | 0.4.1-1                                                                    | 2.7.18               |
