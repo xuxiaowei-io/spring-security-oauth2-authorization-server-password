@@ -5,6 +5,13 @@
 
 | 日期         | 版本      | 更新内容                                                                             |
 |------------|---------|----------------------------------------------------------------------------------|
+| 2025-09-06 | 2.0.0-2 | 验证 `password` 模式 `scope`                                                         |
+| 2025-09-06 | 1.1.1-3 | 验证 `password` 模式 `scope`                                                         |
+| 2025-09-06 | 1.0.1-3 | 验证 `password` 模式 `scope`                                                         |
+| 2025-09-06 | 0.4.1-3 | 验证 `password` 模式 `scope`                                                         |
+| 2025-09-06 | 0.3.1-3 | 验证 `password` 模式 `scope`                                                         |
+| 2025-09-06 | 0.3.0-3 | 验证 `password` 模式 `scope`                                                         |
+| 2025-09-06 | 0.2.3-3 | 验证 `password` 模式 `scope`                                                         |
 | 2025-09-04 | 1.1.1-2 | 删除在 `CLIENT_SECRET_POST` 模式下的 `additionalParameters` 中的客户端的密码，传递用户 `authorities` |
 | 2025-09-04 | 1.0.1-2 | 删除在 `CLIENT_SECRET_POST` 模式下的 `additionalParameters` 中的客户端的密码，传递用户 `authorities` |
 | 2025-09-04 | 0.4.1-2 | 删除在 `CLIENT_SECRET_POST` 模式下的 `additionalParameters` 中的客户端的密码，传递用户 `authorities` |
