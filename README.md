@@ -73,5 +73,5 @@
 2. 自建 GitLab 平台仓库：
    https://gitlab.xuxiaowei.com.cn/xuxiaowei-io/spring-security-oauth2-authorization-server-password.git
     1. 包含所有源码及历史提交记录
-    2. 包含完整的 `OAuth` `2.1` `password` 测试用例
+    2. 包含完整的 `OAuth` `2.1` `client_credentials`、`password`、`refresh_token` 测试（使用）用例
     3. 包含完整的 `CI/CD` 配置：自动构建、自动测试、自动发布
